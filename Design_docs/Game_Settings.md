@@ -11,11 +11,13 @@
 
 The lab looks old on the outside. Cracking and falling can be seen on the wall. Weeds around the lab building are growing thickly. Pigeons and sparrows built nests under the roof. It is not hard to notice it is a lab, but no one will know it is still running.
 
-![outside](./Concept_arts/from_web/lab_outside.jpg) ((It's a web image will be replaced))
+<img src="./Concept_arts/from_web/lab_outside.jpg" width=600>
+(It's a web image will be replaced)
 
 The lab is running indeed. Facilities are as good as they first run even though no one had ever maintained them. The floors are spotless even though no one had ever cleaned them.
 
-![inside](./Concept_arts/from_web/lab_interior.jpg) ((It's a web image will be replaced))
+<img src="./Concept_arts/from_web/lab_interior.jpg" width=600>
+(It's a web image will be replaced)
 
 The whole interior of the lab is in a loop. There is a [**reflection barrier**](#reflection_barrier) between the interior of the lab and its outside layer. Because of the reflection barrier, there is no particle exchange between the interior and the shall of the lab. The inner lab restarts periodically by periodically activating the [**space inverter**](#space_inverter).
 
